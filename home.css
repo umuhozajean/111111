@@ -134,7 +134,7 @@ body
 	100% {
 		left: -400%;
 	}
- @media only screen and (max-width: 980px)
+ @media only screen and (max-width: 600px)
 {
 	.menu-bar 
 	{
@@ -163,7 +163,12 @@ body
 	{
 		color: orange;
 	}
+	.figure{
+		width: 1000%;
+		height: 1000%
+	}
 	#slider figure{
-		width: 500%;
+		width: 1000%;
+		height: 1000%
 	}
 }
